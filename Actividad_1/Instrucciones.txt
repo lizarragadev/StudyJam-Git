@@ -1,0 +1,3 @@
+- Realizar grupos de 2 a 3 personas (cada uno debe tener su laptop)
+- Dentro del directorio "Actividad_1" crear una carpeta por cada grupo en el siguiente formato: ApPaternoPersona1_ApPaternoPersona2: Ejemplo: SangaCallisaya
+- Dentro de ese directorio crear un documento (.txt) individual en el cuál deben tener sus datos personales, al cuál coloquen de nombre de archivo: ApPaternoNombres.txt : Ejemplo: LizarragaGustavo.txt
