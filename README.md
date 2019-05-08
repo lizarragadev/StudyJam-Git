@@ -18,12 +18,11 @@
 
 
 ## Actividad 2
-
 > Actividad individual.
 
 1. Realizar un fork del siguiente repositorio: https://github.com/Gusn8/StudyJam-Git
 2. Clonar el repositorio en sus equipos (el repositorio forkeado).
-3. Crear una carpeta en la raíz del repositorio con su primer apellido y primer nombre, ejemplo: LIZARRAGA_GUSTAVO
-4. Dentro de esa carpeta crear un archivo llamado README.md en el cual deben colocar sus datos personales y al final colocar la URL del repositorio de la actividad 1. (Requisito, caso contrario no podré revisarles la actividad 1)
-5. Subir los cambios al repositorio remoto.
-6. Crear un pull request con el mensaje: "Acepta mi evalación por favor" para que el propietario acepte sus cambios (Si no envían un pull request no podré revisar nada de lo que hicieron)
+3. Crear una carpeta en la raíz del reposiorio con su primer apellido y primer nombre, ejemplo: LIZARRAGA_GUSTAVO
+4. Dentro de esa carpeta crear un archivllamado README.md en el cual deben colocar sus datos personales y al final colocar la URL del repositorio de la actividad 1. (Requisito, caso contrario no podré revisarles la actividad 1)
+5. Subir los cambios al repositorio remoto
+6. Crear un pull request con el mensaje: "Acepta mi evalación por fav
